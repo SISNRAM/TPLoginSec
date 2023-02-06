@@ -1,6 +1,6 @@
 Pour le bonne fonctionnement de ce mini projet il faut :
 
-1 - installez Xampp (ou Wampp etc...) et lancer le serveur Apache et MySQL
+1 - installez Xampp (ou Wamp etc...) et lancer le serveur Apache et MySQL
 
 2 - executez le fichier "bd.sql" pour creer la base de donnees (ou predre les commandes SQL)
 
